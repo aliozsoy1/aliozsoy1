@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliozsoy1" alt="aliozsoy1" /></a> </p>
 
 - 🌱 I’m currently learning **React, React Native**
+- 📫 How to reach me **aliozsoy237@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
